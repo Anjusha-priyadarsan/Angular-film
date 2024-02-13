@@ -1,0 +1,43 @@
+<div class="container mt-7 shadow" >
+    <div class="row">
+        <div class="col-lg-6 p-5 ">
+            <img class="img-fluid max-width-100% height-auto" [src]="singleFilm.poster_path" alt="" height="500px">
+
+        </div>
+        
+        <div class="col-lg-6 p-5 mt-3 ">
+                <h1 class="text-warning">{{singleFilm.name || singleFilm.title}}</h1>
+                <p class="mt-5" style="color: grey;">{{singleFilm.overview}}</p>
+
+                <div class="bg-secondary mt-5  ">
+                  <ul class="list-group mt-2 shadow  bg-secondary ">
+                      <li class="list-group-item py-3 text-success">
+                                  <span class="text-light fw-bold m-3"><span style="color: rgb(6, 113, 83);">Media Type :&nbsp;&nbsp;</span> <span class="text-secondary">{{singleFilm.media_type}}</span></span>
+                      </li>
+                      <li class="list-group-item py-3 text-success">
+                        <span  class="text-light fw-bold m-3"><span style="color: rgb(6, 113, 83);">Language :</span>&nbsp;&nbsp;<span class="text-secondary">{{singleFilm.original_language}}</span></span>
+            </li>
+                      <li class="list-group-item py-4 text-success">
+                          <span class="text-light fw-bold m-3"><span style="color: rgb(6, 113, 83);"  >Release Date :</span>&nbsp;&nbsp;<span class="text-secondary">{{singleFilm.release_date}}</span></span>
+              </li>
+              <li class="list-group-item py-4 text-success">
+                  <span class="text-light fw-bold m-3"><span style="color: rgb(6, 113, 83);">Popularity :</span>&nbsp;&nbsp;<span class="text-secondary">{{singleFilm.popularity | number:'1.1-1'}}</span></span>
+               </li>
+               
+              
+              
+              
+  
+                  </ul>
+                </div>
+                <button type="button" class="btn btn-danger mt-5 w-100 text-warning">Download</button>
+                
+        </div>
+
+    </div>
+
+</div>
+
+
+  
+ 

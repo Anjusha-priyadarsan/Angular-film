@@ -1,0 +1,105 @@
+ <!-- <div class="container  w-100 " > -->
+  <!-- <div class="container-fluid text-center m-0 w-100 ">  -->
+<!-- top -->
+<div class="row text-light w-100 " >
+  <div class="col-lg-6 p-5 ">
+
+    <img class="img-fluid max-width-100% height-auto mt-5" src="https://i.postimg.cc/TPZ6Fnxp/wp1945939.jpg" alt=""
+      height="800px" width="1400px">
+
+  </div>
+  <div class="col-lg-6 p-5 text-center ">
+    <h6 class="mt-5 fw-bold" style="color: rgb(72, 72, 96);"> INCLUDED IN ALL PLANS</h6>
+
+    <span data-title="All The TV You Love . . ." class="text mt-5">All The TV You Love . . .</span>
+
+    <p class="mt-5 v text-secondary">Watch full seasons of exclusive streaming series, current-season episodes, hit
+      movies, Hulu
+      Originals, kids shows, and more.</p>
+
+
+
+
+  </div>
+</div>
+
+<!-- paRALLAX -->
+<div class="row text-light  ">
+  <div class="col ">
+
+    <section >
+      <section class="parallax-1">
+        <div class="parallax-inner">
+          <h1>AVATAR</h1>
+        </div>
+      </section>
+      <!-- <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Sapiente, quas repellat, excepturi vitae iste dolores placeat perferendis fugit saepe harum repellendus dignissimos commodi beatae dolorum velit cumque delectus facilis veritatis. </p> -->
+      <section class="parallax-2">
+        <div class="parallax-inner">
+          <h1>JURASIC PARK</h1>
+        </div>
+
+      </section>
+      <!-- <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Rem quo delectus ipsa aliquid inventore dignissimos praesentium? Excepturi saepe obcaecati dolore doloremque iusto facilis minus nemo? Dicta esse possimus excepturi iste?</p> -->
+      <section class="parallax-3">
+        <div class="parallax-inner">
+          <h1>TRANSFORMERS</h1>
+        </div>
+      </section>
+    </section>
+
+
+  </div>
+</div>
+
+
+
+
+
+
+
+
+
+
+<!-- bottom -->
+<div class="row mt-5">
+  <div class="col">
+
+  </div>
+  <div class="col">
+    <div class="container-fluid">
+      <label for="" class="d-flex border rounded shadow-lg">
+        <input [(ngModel)]="filmName" name="n1" id="n1" placeholder="search with film name" type="text"
+          class="form-control  " style="background-color: black;color: white;">
+        <span><i class="fa-solid  ms-2 me-2 pt-3 fa-magnifying-glass fa-fade text-light"></i></span>
+      </label>
+
+    </div>
+  </div>
+  <div class="col">
+
+  </div>
+</div>
+<div class="row mt-5 m-5">
+
+  <div id="anim" *ngFor="let i of filmList | search : filmName : 'name'" class="card shadow p-2 col-lg-3 m-3 mt-5  text-light"
+    style="width: 16rem;">
+    <a routerLink="single/{{i.id}}" style="text-decoration: none;">
+      <img  [src]="i.poster_path" class="card-img-top" alt="..." height="300px">
+
+    </a>
+    <div class="card-body text-center p-2" style="background-color: black;">
+      <h5 class="card-title " style="font-style: italic;color:white ;">{{i.title }}</h5>
+      <p class="card-text text-secondary">{{i.media_type}}</p>
+      <p class="card-text text-secondary">IMDb :{{i.vote_average | number:'1.1-1'}}/10</p>
+
+    </div>
+  </div>
+
+
+
+
+</div>
+ <!-- </div> -->
+
+<!-- </div>  -->

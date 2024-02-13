@@ -1,0 +1,130 @@
+*{
+    margin: 0;
+    /* margin-top: 10px; */
+    /* background-color: black; */
+    padding: 0;
+}
+
+h1{
+    font-size: 120px;
+    text-align: center;
+    color: rgba(255, 255, 255, 0.4);
+}
+#anim{
+  transition: .5s ease-out;
+}
+
+#anim:hover{
+  transform: scale(1.07);
+
+}
+
+/* Media query for smaller screens */
+@media (max-width: 952px) {
+  h1 {
+    font-size: 90px; /* Adjust font size for smaller screens */
+  }
+}
+@media (max-width: 793px) {
+  h1 {
+    font-size: 70px; /* Adjust font size for smaller screens */
+  }
+}
+
+/* Media query for even smaller screens */
+@media (max-width: 576px) {
+  h1 {
+    font-size: 25px; /* Adjust font size for even smaller screens */
+  }
+}
+
+.parallax-1{
+    background: url(https://i.postimg.cc/Kj2v6sVH/1232424-avatar-hd-wallpaper-1920x1200-mobile.jpg)no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+       height: 500px;
+
+
+
+}
+.parallax-2{
+    background: url(https://i.postimg.cc/mrL3smxh/682597.jpg)no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    height: 500px;
+
+
+
+}
+.parallax-3{
+    background: url(https://i.postimg.cc/2ybMxz2p/1323770.jpg)no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    height: 500px;
+  
+
+
+}
+.parallax-inner{
+    padding: 10% 0;
+}
+/* h2{
+    font-size: 32px;
+    color: aqua;
+    text-align: center;
+    font-weight: 300;
+    letter-spacing: 2px;
+    margin:20px 0,10px ;
+} */
+
+.text{
+    color: transparent;
+    font-size: 4vw;
+    display: inline-block;
+    border-radius: 3px;
+    background-color: #1d3557;
+    position: relative;
+    -webkit-background-clip: text;
+    background-clip: text;
+    &:before{
+      content: attr(data-title);
+      background: linear-gradient(90deg, rgba(245,137,21,1) 0%, rgba(253,29,29,1) 51%, rgba(29,53,87,1) 100%);
+      position: absolute;
+      top: 0;
+      right: 0;
+      bottom: 0;
+      left: 0;
+      width: 0;
+      background-clip: text;
+      -webkit-background-clip: text;
+      transition: all 1s ease-in-out;
+      animation: text-animation 3s infinite;
+    }
+  }
+
+
+@keyframes text-animation{
+  0%{
+    width: 0;
+  }
+  50%{
+    width: 100%;
+  }
+  100%{
+    width: 0;
+  }
+}
+
+::placeholder{
+  color: grey;
+  opacity: 1;
+}
+
+@media (max-width: 700px) {
+  .text {
+    font-size: 25px;
+  }
+}

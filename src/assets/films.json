@@ -1,0 +1,436 @@
+{
+  "page": 1,
+  "results": [
+    {
+      "adult": false,
+      "backdrop_path": "/cnqwv5Uz3UW5f086IWbQKr3ksJr.jpg",
+      "id": 572802,
+      "title": "Aquaman and the Lost Kingdom",
+      "original_language": "en",
+      "original_title": "Aquaman and the Lost Kingdom",
+      "overview": "Black Manta seeks revenge on Aquaman for his father's death. Wielding the Black Trident's power, he becomes a formidable foe. To defend Atlantis, Aquaman forges an alliance with his imprisoned brother. They must protect the kingdom.",
+      "poster_path": "https://i.postimg.cc/7Yxm44kt/9471-2000x2999-mobile-hd-aquaman-and-the-lost-kingdom-wallpaper-image.jpg",
+      "media_type": "movie",
+      "genre_ids": [
+        28,
+        12,
+        14
+      ],
+      "popularity": 970.392,
+      "release_date": "2023-12-20",
+      "video": false,
+      "vote_average": 6.929,
+      "vote_count": 1525
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/4MCKNAc6AbWjEsM2h9Xc29owo4z.jpg",
+      "id": 866398,
+      "title": "The Beekeeper",
+      "original_language": "en",
+      "original_title": "The Beekeeper",
+      "overview": "One man’s campaign for vengeance takes on national stakes after he is revealed to be a former operative of a powerful and clandestine organization known as Beekeepers.",
+      "poster_path": "https://i.postimg.cc/7LDg3MZs/MV5-BZDkw-OTIy-ZGQt-YWNk-OS00-Yz-Ax-LTkw-ZWUt-Mz-U3-Yj-U4-ZDIy-Yzdl-Xk-Ey-Xk-Fqc-Gde-QXVy-MTkx-Nj-Uy-NQ-V1.jpg",
+      "media_type": "movie",
+      "genre_ids": [
+        28,
+        53,
+        18
+      ],
+      "popularity": 2265.436,
+      "release_date": "2024-01-10",
+      "video": false,
+      "vote_average": 7.266,
+      "vote_count": 907
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/yyFc8Iclt2jxPmLztbP617xXllT.jpg",
+      "id": 787699,
+      "title": "Wonka",
+      "original_language": "en",
+      "original_title": "Wonka",
+      "overview": "Willy Wonka – chock-full of ideas and determined to change the world one delectable bite at a time – is proof that the best things in life begin with a dream, and if you’re lucky enough to meet Willy Wonka, anything is possible.",
+      "poster_path": "https://i.postimg.cc/DyRVwmwy/Wonka-2023-film-poster.jpg",
+      "media_type": "movie",
+      "genre_ids": [
+        35,
+        10751,
+        14
+      ],
+      "popularity": 1303.308,
+      "release_date": "2023-12-06",
+      "video": false,
+      "vote_average": 7.211,
+      "vote_count": 1974
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/criPrxkTggCra1jch49jsiSeXo1.jpg",
+      "id": 609681,
+      "title": "The Marvels",
+      "original_language": "English",
+      "original_title": "The Marvels",
+      "overview": "Carol Danvers, aka Captain Marvel, has reclaimed her identity from the tyrannical Kree and taken revenge on the Supreme Intelligence. But unintended consequences see Carol shouldering the burden of a destabilized universe. When her duties send her to an anomalous wormhole linked to a Kree revolutionary, her powers become entangled with that of Jersey City super-fan Kamala Khan, aka Ms. Marvel, and Carol’s estranged niece, now S.A.B.E.R. astronaut Captain Monica Rambeau. Together, this unlikely trio must team up and learn to work in concert to save the universe.",
+      "poster_path": "https://i.postimg.cc/PqTv0XZ2/56245l11a-goat-philippines-apac-poster-1sht-e357e03a.jpg",
+      "media_type": "movie",
+      "genre_ids": [
+        878,
+        12,
+        28
+      ],
+      "popularity": 1287.814,
+      "release_date": "2023-11-08",
+      "video": false,
+      "vote_average": 6.341,
+      "vote_count": 1506
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/ehumsuIBbgAe1hg343oszCLrAfI.jpg",
+      "id": 1022796,
+      "title": "Wish",
+      "original_language": "English",
+      "original_title": "Wish",
+      "overview": "Asha, a sharp-witted idealist, makes a wish so powerful that it is answered by a cosmic force – a little ball of boundless energy called Star. Together, Asha and Star confront a most formidable foe - the ruler of Rosas, King Magnifico - to save her community and prove that when the will of one courageous human connects with the magic of the stars, wondrous things can happen.",
+      "poster_path": "https://i.postimg.cc/hG3gVnL2/unnamed.jpg",
+      "media_type": "movie",
+      "genre_ids": [
+        16,
+        10751,
+        14,
+        12
+      ],
+      "popularity": 944.601,
+      "release_date": "2023-11-13",
+      "video": false,
+      "vote_average": 6.653,
+      "vote_count": 670
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/leVOmOabRRWgdhUDNFQhpOAa5s3.jpg",
+      "id": 118642,
+      "title": "Mr. & Mrs. Smith",
+      "original_language": "English",
+      "original_name": "Mr. & Mrs. Smith",
+      "overview": "Meet the Smiths: two lonely strangers, John and Jane, who have given up their lives and identities to be thrown together as partners – both in espionage and in marriage",
+      "poster_path": "https://i.postimg.cc/mgjLW96j/mr-mrs-smith-movie-poster-md.jpg",
+      "media_type": "tv",
+      "genre_ids": [
+        10759,
+        35,
+        18
+      ],
+      "popularity": 443.653,
+      "first_air_date": "2024-02-01",
+      "vote_average": 6.029,
+      "vote_count": 69,
+      "origin_country": [
+        "US"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/flFggscMhUyA9p7P8SbFyn6HPN1.jpg",
+      "id": 52814,
+      "title": "Halo",
+      "original_language": "English",
+      "original_name": "Halo",
+      "overview": "Depicting an epic 26th-century conflict between humanity and an alien threat known as the Covenant, the series weaves deeply drawn personal stories with action, adventure and a richly imagined vision of the future.",
+      "poster_path": "https://i.postimg.cc/vT7B1N3F/bat-flash-halo-poster-fixed.jpg",
+      "media_type": "tv",
+      "genre_ids": [
+        10759,
+        10765
+      ],
+      "popularity": 789.688,
+      "first_air_date": "2022-03-24",
+      "vote_average": 8.305,
+      "vote_count": 2090,
+      "origin_country": [
+        "US"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/siA2d4PNn4JVFZAwfIYx4pnKCaK.jpg",
+      "id": 46648,
+      "title": "True Detective",
+      "original_language": "English",
+      "original_name": "True Detective",
+      "overview": "An American anthology police detective series utilizing multiple timelines in which investigations seem to unearth personal and professional secrets of those involved, both within or outside the law.",
+      "poster_path": "https://i.postimg.cc/sfJGgM8B/MV5-BNTEz-Mz-Bi-NGYt-YThi-ZS00-Mz-Bj-LTk5-ZWIt-M2-Fm-Mz-U3-Y2-Rj-YTVl-Xk-Ey-Xk-Fqc-Gde-QXVy-Mjkw-OTAy-MDU-V1.jpg",
+      "media_type": "tv",
+      "genre_ids": [
+        18
+      ],
+      "popularity": 793.693,
+      "first_air_date": "2014-01-12",
+      "vote_average": 8.3,
+      "vote_count": 3018,
+      "origin_country": [
+        "US"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/bQS43HSLZzMjZkcHJz4fGc7fNdz.jpg",
+      "id": 792307,
+      "title": "Poor Things",
+      "original_language": "English",
+      "original_title": "Poor Things",
+      "overview": "Brought back to life by an unorthodox scientist, a young woman runs off with a debauched lawyer on a whirlwind adventure across the continents. Free from the prejudices of her times, she grows steadfast in her purpose to stand for equality and liberation.",
+      "poster_path": "https://i.postimg.cc/2jBQ4FKJ/poorthings.jpg",
+      "media_type": "movie",
+      "genre_ids": [
+        878,
+        10749,
+        35
+      ],
+      "popularity": 482.499,
+      "release_date": "2023-12-07",
+      "video": false,
+      "vote_average": 8.175,
+      "vote_count": 1043
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/fm6KqXpk3M2HVveHwCrBSSBaO0V.jpg",
+      "id": 872585,
+      "title": "Oppenheimer",
+      "original_language": "English",
+      "original_title": "Oppenheimer",
+      "overview": "The story of J. Robert Oppenheimer's role in the development of the atomic bomb during World War II.",
+      "poster_path": "https://i.postimg.cc/L57Q09pp/81-XXx-WVKb-OL-AC-UF1000-1000-QL80.jpg",
+      "media_type": "movie",
+      "genre_ids": [
+        18,
+        36
+      ],
+      "popularity": 437.917,
+      "release_date": "2023-07-19",
+      "video": false,
+      "vote_average": 8.118,
+      "vote_count": 6616
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/8te0oIAuUOxi03RbM1SfL3xUYHB.jpg",
+      "id": 848538,
+      "title": "Argylle",
+      "original_language": "English",
+      "original_title": "Argylle",
+      "overview": "When the plots of reclusive author Elly Conway's fictional espionage novels begin to mirror the covert actions of a real-life spy organization, quiet evenings at home become a thing of the past. Accompanied by her cat Alfie and Aiden, a cat-allergic spy, Elly races across the world to stay one step ahead of the killers as the line between Conway's fictional world and her real one begins to blur.",
+      "poster_path": "https://i.postimg.cc/8zDkyNPW/argylle-movie-poster.webp",
+      "media_type": "movie",
+      "genre_ids": [
+        35,
+        28,
+        80
+      ],
+      "popularity": 202.216,
+      "release_date": "2024-01-31",
+      "video": false,
+      "vote_average": 6.261,
+      "vote_count": 190
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/meyhnvssZOPPjud4F1CjOb4snET.jpg",
+      "id": 940551,
+      "title": "Migration",
+      "original_language": "eEnglishn",
+      "original_title": "Migration",
+      "overview": "After a migrating duck family alights on their pond with thrilling tales of far-flung places, the Mallard family embarks on a family road trip, from New England, to New York City, to tropical Jamaica.",
+      "poster_path": "https://i.postimg.cc/HxGy3jjm/1e24bb7be4-poster.jpg",
+      "media_type": "movie",
+      "genre_ids": [
+        16,
+        28,
+        12,
+        35,
+        10751
+      ],
+      "popularity": 961.294,
+      "release_date": "2023-12-06",
+      "video": false,
+      "vote_average": 7.648,
+      "vote_count": 570
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/6snBXmgkscLEJQmxx46qEIlqYlB.jpg",
+      "id": 46518,
+      "title": "Masters of the Air",
+      "original_language": "English",
+      "original_name": "Masters of the Air",
+      "overview": "During World War II, airmen risk their lives with the 100th Bomb Group, a brotherhood forged by courage, loss, and triumph.",
+      "poster_path": "https://i.postimg.cc/kgTrxt1V/p-DLYWc25p9g-W7a-XB1-Oz-Oldesyyw.jpg",
+      "media_type": "tv",
+      "genre_ids": [
+        10768,
+        18
+      ],
+      "popularity": 649.36,
+      "first_air_date": "2024-01-25",
+      "vote_average": 7.649,
+      "vote_count": 67,
+      "origin_country": [
+        "US"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/3mpgltEMgPf8zFtPnAWdDVN8ZT1.jpg",
+      "id": 1056360,
+      "title": "American Fiction",
+      "original_language": "English",
+      "original_title": "American Fiction",
+      "overview": "A novelist fed up with the establishment profiting from \"Black\" entertainment uses a pen name to write a book that propels him into the heart of hypocrisy and the madness he claims to disdain.",
+      "poster_path": "https://i.postimg.cc/KjWkkY6C/MV5-BZDlk-Zm-Rl-YTct-NGJm-Ny00-Mj-Vk-LThj-ZDQt-MWY5-Zjg2-Njlh-ZDZk-Xk-Ey-Xk-Fqc-Gde-QXVy-MDM2-NDM2-MQ-V1-FMjpg-UX1000.jpg",
+      "media_type": "movie",
+      "genre_ids": [
+        35,
+        18
+      ],
+      "popularity": 174.842,
+      "release_date": "2023-11-10",
+      "video": false,
+      "vote_average": 7.235,
+      "vote_count": 100
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/nTPFkLUARmo1bYHfkfdNpRKgEOs.jpg",
+      "id": 1072790,
+      "title": "Anyone But You",
+      "original_language": "English",
+      "original_title": "Anyone But You",
+      "overview": "Bea and Ben look like the perfect couple, but after an amazing first date something happens that turns their fiery hot attraction ice cold - until they find themselves unexpectedly thrust together at a destination wedding in Australia. So they do what any two mature adults would do: pretend to be a couple.",
+      "poster_path": "https://i.postimg.cc/sgjxj7G1/MV5-BNDYz-Yzc0-MDYt-MGM2-MC00-Yz-Nj-LWJh-Mj-Yt-Yz-Jh-MWVi-Mjgx-ZTcw-Xk-Ey-Xk-Fqc-Gde-QXVy-MTUz-MTg2-ODkz-V1.jpg",
+      "media_type": "movie",
+      "genre_ids": [
+        35,
+        10749
+      ],
+      "popularity": 725.952,
+      "release_date": "2023-12-21",
+      "video": false,
+      "vote_average": 7.254,
+      "vote_count": 274
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/nHf61UzkfFno5X1ofIhugCPus2R.jpg",
+      "id": 346698,
+      "title": "Barbie",
+      "original_language": "English",
+      "original_title": "Barbie",
+      "overview": "Barbie and Ken are having the time of their lives in the colorful and seemingly perfect world of Barbie Land. However, when they get a chance to go to the real world, they soon discover the joys and perils of living among humans.",
+      "poster_path": "https://i.postimg.cc/V62m1S9D/download-1.jpg",
+      "media_type": "movie",
+      "genre_ids": [
+        35,
+        12,
+        14
+      ],
+      "popularity": 261.354,
+      "release_date": "2023-07-19",
+      "video": false,
+      "vote_average": 7.128,
+      "vote_count": 7265
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/nI8uQAU8KFXYIIRz6jdL0pmC3eL.jpg",
+      "id": 103540,
+      "title": "Percy Jackson and the Olympians",
+      "original_language": "English",
+      "original_name": "Percy Jackson and the Olympians",
+      "overview": "Percy Jackson is on a dangerous quest. Outrunning monsters and outwitting gods, he must journey across America to return Zeus' master bolt and stop an all-out war. With the help of his quest mates Annabeth and Grover, Percy's journey will lead him closer to the answers he seeks: how to fit into a world where he feels out of place, and find out who he's destined to be.",
+      "poster_path": "https://i.postimg.cc/ncc5kh6N/MV5-BMTQ5-NDlm-ZWUt-Mj-Iy-MC00-Nz-Q3-LTg3-OWYt-Mz-Rk-Y2-Fi-Nz-Q0-Njc4-Xk-Ey-Xk-Fqc-Gde-QXVy-NDQ2-MTMz-ODA-V1.jpg",
+      "media_type": "tv",
+      "genre_ids": [
+        10759,
+        10765,
+        18,
+        10751
+      ],
+      "popularity": 512.107,
+      "first_air_date": "2023-12-19",
+      "vote_average": 7.436,
+      "vote_count": 305,
+      "origin_country": [
+        "US"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/f1AQhx6ZfGhPZFTVKgxG91PhEYc.jpg",
+      "id": 753342,
+      "title": "Napoleon",
+      "original_language": "English",
+      "original_title": "Napoleon",
+      "overview": "An epic that details the checkered rise and fall of French Emperor Napoleon Bonaparte and his relentless journey to power through the prism of his addictive, volatile relationship with his wife, Josephine.",
+      "poster_path": "https://i.postimg.cc/W3qrjgFx/MV5-BYTA1-NGJi-OTIt-OTJj-OC00-Zj-Qw-LWE1-NTAt-Yz-Qw-MWNh-Zj-Y0-YThk-Xk-Ey-Xk-Fqc-Gde-QXVy-MTUz-MTg2-ODkz-V1.jpg",
+      "media_type": "movie",
+      "genre_ids": [
+        36,
+        10752,
+        28,
+        18
+      ],
+      "popularity": 652.558,
+      "release_date": "2023-11-22",
+      "video": false,
+      "vote_average": 6.526,
+      "vote_count": 1624
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/2rmK7mnchw9Xr3XdiTFSxTTLXqv.jpg",
+      "id": 37854,
+      "title": "One Piece",
+      "original_language": "Jappanese",
+      "original_name": "ワンピース",
+      "overview": "Years ago, the fearsome Pirate King, Gol D. Roger was executed leaving a huge pile of treasure and the famous \"One Piece\" behind. Whoever claims the \"One Piece\" will be named the new King of the Pirates.\n\nMonkey D. Luffy, a boy who consumed a \"Devil Fruit,\" decides to follow in the footsteps of his idol, the pirate Shanks, and find the One Piece. It helps, of course, that his body has the properties of rubber and that he's surrounded by a bevy of skilled fighters and thieves to help him along the way.\n\nLuffy will do anything to get the One Piece and become King of the Pirates!",
+      "poster_path": "https://i.postimg.cc/NMFDXKyx/9e0tas1xinr21.jpg",
+      "media_type": "tv",
+      "genre_ids": [
+        10759,
+        35,
+        16
+      ],
+      "popularity": 168.518,
+      "first_air_date": "1999-10-20",
+      "vote_average": 8.727,
+      "vote_count": 4304,
+      "origin_country": [
+        "JP"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/du11oPPbEoDnUpiREO5tUg47rJd.jpg",
+      "id": 365620,
+      "title": "Ferrari",
+      "original_language": "English",
+      "original_title": "Ferrari",
+      "overview": "Set during the summer of 1957. Ex-racecar driver, Enzo Ferrari, is in crisis. Bankruptcy stalks the company he and his wife, Laura, built from nothing ten years earlier. Their tempestuous marriage struggles with the mourning for one son and the acknowledgement of another.",
+      "poster_path": "https://i.postimg.cc/g0n4XwLH/image.jpg",
+      "media_type": "movie",
+      "genre_ids": [
+        18,
+        36
+      ],
+      "popularity": 136.258,
+      "release_date": "2023-12-14",
+      "video": false,
+      "vote_average": 6.7,
+      "vote_count": 296
+    }
+  ],
+  "total_pages": 1000,
+  "total_results": 20000
+}

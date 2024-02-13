@@ -1,0 +1,11 @@
+@media (max-width: 222px) {
+    img {
+      width: 90px; /* Adjust font size for smaller screens */
+    }
+  }
+  @media (max-width: 400px) {
+    img {
+      width: 100px; /* Adjust font size for smaller screens */
+      height:30px ;
+    }
+  }
